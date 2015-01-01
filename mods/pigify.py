@@ -15,4 +15,4 @@ if original.isalpha():
     new_word = new_word [1:len(new_word)]
     print(new_word.encode("UTF-8"))
 else:
-	print("Alphanumeric characters only!")
+    print("Alphanumeric characters only!")
